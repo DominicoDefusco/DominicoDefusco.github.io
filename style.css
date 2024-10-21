@@ -10,7 +10,7 @@ body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
     background-color: #423d4a;
-    color: #333; /* This will affect the body text, if needed */
+    color: #333; 
     background-image: url('assets/circuit-board.svg'); /* Add SVG as a background */
     background-size: auto; /* Keeps the original size of the image */
     background-position: top left; /* Aligns the image to the top left */
